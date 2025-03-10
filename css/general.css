@@ -30,7 +30,7 @@ Bold: 700
 
 *--- COLORS ---
 Primary:
- #e67e22
+#e67e22
 
 Tints:
 #fdf2e9
@@ -85,6 +85,8 @@ body {
   line-height: 1;
   font-weight: 400;
   color: #555;
+
+  overflow-x: hidden;
 }
 
 /* TITLE: HEALPER CLASSES */
@@ -243,6 +245,7 @@ strong {
 
 .list-item {
   font-size: 1.8rem;
+  line-height: 1.2;
 
   display: flex;
   align-items: center;
