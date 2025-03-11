@@ -1,4 +1,4 @@
-# About [Omnifood Project](https://darkoray.github.io/Omnifood-Project/)
+# About [Omnifood](https://darkoray.github.io/Omnifood-Project/)
 
 Omnifood is a smart AI-powered meal subscription service designed to make healthy eating effortless. Our AI creates personalized meal plans based on user preferences, and our partner chefs cook and deliver fresh, organic meals every day. With flexible plans, zero food waste, and support for various diets, Omnifood ensures nutritious meals are always just a doorstep away.
 
