@@ -63,6 +63,11 @@ Greys:
 
 */
 
+/* Culprit Detector
+* {
+  outline: 1px solid red;
+} */
+
 /* GROUP: RE-USABLE COMPONENTS */
 * {
   padding: 0;
@@ -78,6 +83,8 @@ Greys:
 
 html {
   font-size: 62.5%;
+  overflow-x: hidden;
+  scroll-behavior: smooth;
 }
 
 body {
