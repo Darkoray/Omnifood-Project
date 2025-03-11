@@ -8,3 +8,5 @@ Omnifood is a smart AI-powered meal subscription service designed to make health
 🔹 Pause or cancel anytime
 
 This project is based on the [Udemy course](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/) on modern web development with HTML5 and CSS3.
+
+Made by [Darkoray](https://github.com/Darkoray)
